@@ -11,3 +11,5 @@ Troy McClure here
 Sample website with plenty of files for demos
 
 ## How to Contribute
+
+You can just edit stuff but dont forget to pull
