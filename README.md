@@ -12,4 +12,12 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
-You can just edit stuff but dont forget to pull.  Then stage your changes, then push to a branch
+You can just edit stuff but dont forget to pull.  
+Then stage your changes
+Then push to a branch
+Do a compare with difftool
+Merge if all ok!
+
+### Copyright
+
+Updated copyright statement
