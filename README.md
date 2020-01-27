@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Troy McClure here
+Troy McClure here ... my dolphin broke up with me :alien:
 
 ## Purpose
 
