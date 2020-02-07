@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Martin -- I work -- Nah
+    Martin -- I work -- Twitter ... nah
 
 # THANKS
 
@@ -13,3 +13,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+    GIT, Handlebars
