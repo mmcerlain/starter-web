@@ -26,5 +26,4 @@ Merge if all ok!
 
 ### Copyright
 
-Updated copyright statement. All rights reserved.
-Some added text
+Updated copyright statement. All rights reserved. &copy; 2020
